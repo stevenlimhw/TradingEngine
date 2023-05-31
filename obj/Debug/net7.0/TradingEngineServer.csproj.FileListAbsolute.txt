@@ -1,0 +1,5 @@
+/Users/steven/Documents/GitHub/TradingEngineServer/obj/Debug/net7.0/TradingEngineServer.csproj.AssemblyReference.cache
+/Users/steven/Documents/GitHub/TradingEngineServer/obj/Debug/net7.0/TradingEngineServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steven/Documents/GitHub/TradingEngineServer/obj/Debug/net7.0/TradingEngineServer.AssemblyInfoInputs.cache
+/Users/steven/Documents/GitHub/TradingEngineServer/obj/Debug/net7.0/TradingEngineServer.AssemblyInfo.cs
+/Users/steven/Documents/GitHub/TradingEngineServer/obj/Debug/net7.0/TradingEngineServer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/steven/Documents/GitHub/trading-engine/bin/Debug/net7.0/trading-engine
+/Users/steven/Documents/GitHub/trading-engine/bin/Debug/net7.0/trading-engine.deps.json
+/Users/steven/Documents/GitHub/trading-engine/bin/Debug/net7.0/trading-engine.runtimeconfig.json
+/Users/steven/Documents/GitHub/trading-engine/bin/Debug/net7.0/trading-engine.dll
+/Users/steven/Documents/GitHub/trading-engine/bin/Debug/net7.0/trading-engine.pdb
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.csproj.AssemblyReference.cache
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.AssemblyInfoInputs.cache
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.AssemblyInfo.cs
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.csproj.CoreCompileInputs.cache
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.dll
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/refint/trading-engine.dll
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.pdb
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/trading-engine.genruntimeconfig.cache
+/Users/steven/Documents/GitHub/trading-engine/obj/Debug/net7.0/ref/trading-engine.dll
