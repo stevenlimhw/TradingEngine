@@ -13,7 +13,7 @@ namespace TradingEngineServer.Core
                 services.Configure<TradingEngineServerConfiguration>(context.Configuration
                     .GetSection(nameof(TradingEngineServerConfiguration)));
                 
-                services.AddSingleton<ITradingEngineServer>();
+                services.AddSingleton<TradingEngineServer>();
                 
                 services.AddHostedService<TradingEngineServer>();
             }).Build();
