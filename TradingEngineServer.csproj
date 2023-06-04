@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LoggingMod\LoggingCS.csproj" />
+    <ProjectReference Include="..\LoggerModule\LoggerModule.csproj" />
   </ItemGroup>
 
 </Project>
