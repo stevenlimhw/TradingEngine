@@ -1,6 +1,6 @@
 namespace TradingEngineServer.Core
 {
-    interface ITradingEngineServer
+    public interface ITradingEngineServer
     {
         Task Run(CancellationToken token);
     }
